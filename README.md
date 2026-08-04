@@ -1,28 +1,16 @@
-# arabic-ai-evaluation-portfolio
-Portfolio for Arabic AI evaluation, language data quality, and benchmark design. www.linkedin.com/in/asef-hadi-b77b333b1
 # Arabic AI Evaluation Portfolio
 
-## About
-This repository documents my transition into Arabic AI evaluation and language data quality.
+This repository documents my learning projects and practical work in Arabic large language model evaluation, content quality, rubric design, error analysis, and factual verification.
 
-## Current focus
-- Arabic response evaluation
-- Rubric design
-- Error taxonomy
-- Factuality and hallucination analysis
-- Educational, cultural, and literary content
+## Planned Areas
 
-## Planned outputs
-- Job-market skill map
-- Arabic evaluation guideline
-- Evaluation dataset
-- Quality analysis report
-- Python notebooks
+- Arabic LLM evaluation
+- Instruction-following assessment
+- Linguistic quality review
+- Error classification
+- Factual verification
+- Arabic benchmark design
 
-## Repository status
-Work in progress. Public materials will be added after quality and privacy review.
+## Current Status
 
-## Contact
-LinkedIn: www.linkedin.com/in/asef-hadi-b77b333b1
-
-
+In progress.
